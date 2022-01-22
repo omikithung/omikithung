@@ -8,4 +8,4 @@
 - 📫 How to reach me: LinkedIn, Facebook
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love my time alone.
-\
+
