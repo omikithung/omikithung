@@ -12,3 +12,6 @@
 - ⚡ Fun fact: I love my time alone.
 
 <img alt=”React” src=”https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+                                                                                                                          
+[![Ezung’s github stats](https://github-readme-stats.vercel.app/api?username=omikithung)](https://github.com/omikithung)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omikithung&layout=compact)](https://github.com/omikithung)
