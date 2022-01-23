@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I am Ezung 👋
 
 - 🔭 I’m currently working on my own self Motivated Project.
 - 🌱 I’m currently learning MERN full stack.
@@ -7,7 +7,7 @@
 - 💬 Ask me about any Technology stuff or we can discuss progression of our local society in the Field of Technology.
 
 <div>
-<p>Contact me at:<p>
+<p>Contact at:<p>
       
 <a href="https://www.linkedin.com/in/lithungbemoezung-37a986165/"> ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) </a>
 <a href="https://www.facebook.com/profile.php?id=100072267401469"> ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white) </a> 
