@@ -11,7 +11,7 @@
       
 <a href="https://www.linkedin.com/in/lithungbemoezung-37a986165/"> ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) </a>
 <a href="https://www.facebook.com/profile.php?id=100072267401469"> ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white) </a> 
-<a mailto="omikithung@gmail.com"> ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) </a>
+<a href= "mailto:omikithung@gmail.com"> ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) </a>
 </div>
 
 - 😄 Pronouns: He/Him
