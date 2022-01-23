@@ -65,7 +65,7 @@
      
 ### Programming Languages:
       
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=omikithung&layout=compact&show_icons=true)](https://github.com/omikithung/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=omikithung&layout=compact&show_icons=true&hide=scss,less)](https://github.com/omikithung/github-readme-stats)
 </div>
 
 
