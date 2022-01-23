@@ -28,15 +28,28 @@
 ### Technical Skills:
       
 
-![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Platform-Node.js-red)
+![NPM](https://img.shields.io/badge/Tools-NPM-red)
+
+![ExpressJS](https://img.shields.io/badge/Framework-Express.js-purple)
+![Next JS](https://img.shields.io/badge/Framework-Next.js-purple)
+![Ant-Design](https://img.shields.io/badge/Framework-ANTD-purple)
+![Bootstrap](https://img.shields.io/badge/Framework-Bootstrap-purple)
+
+![MongoDB](https://img.shields.io/badge/Database-MongoDB-green)
+![MySQL](https://img.shields.io/badge/Database-MySQL-green)
+    
+![React](https://img.shields.io/badge/Library-React-black)
+![Socket.io](https://img.shields.io/badge/Library-socket.IO-black)
+    
+![Javascript](https://img.shields.io/badge/Code-JavaScript-yellow)
+![HTML](https://img.shields.io/badge/Code-HTML-yellow)
+![CSS](https://img.shields.io/badge/Style-CSS-yellow)
+
+
+![C](https://img.shields.io/badge/Code-C-blue)
+
+
 </div>
 
 
