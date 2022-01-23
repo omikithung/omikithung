@@ -1,2 +1,5 @@
 * linguist-vendored
-*.js linguist-vendored=false
+*.js linguist-vendored=true
+*.c linguist-detectable=true
+*.scss linguist-detectable=false
+*.js linguist-detectable=false
