@@ -1,8 +1,8 @@
     
-### <div align="center"><img height="120" width="120" src="https://contrib.rocks/image?repo=omikithung/omikithung" /> <p> Ezung's Profile </p></div>
+### <div> Hi, I am Ezung</div>
 
-<div align="center">
-      <i>connect with me:  </i> 
+<div>
+      <i>connect with me @:  </i> 
 
 <a href="https://www.linkedin.com/in/lithungbemoezung-37a986165/"> ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) </a>
 <a href="https://www.facebook.com/profile.php?id=100072267401469"> ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white) </a> 
@@ -10,8 +10,8 @@
 </div>
 
 #
-### <p align="center">About Myself:</p>
-<ul type="none" margin="none" align="center">
+### <p>About Myself:</p>
+<ul type="none" margin="none">
       <li>🔭 I’m currently working on my own self Motivated Project</li>
       <li>🤔 I would love to get a guidance to be a better Developer</li>
       <li>👯 I’m looking to collaborate on web development Projects</li>
@@ -23,7 +23,7 @@
 
 
 
-<div align="center">
+<div>
 
 ### Technical Skills:
       
@@ -53,7 +53,7 @@
 </div>
 
 
-<div align="center">
+<div>
 
 ### Github Status:
       
@@ -61,7 +61,7 @@
 </div>
 
 
-<div align="center">
+<div>
      
 ### Programming Languages:
       
