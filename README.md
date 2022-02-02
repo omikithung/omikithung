@@ -14,11 +14,10 @@
 <ul type="none" margin="none">
       <li>🔭 I’m currently working on my own self Motivated Project</li>
       <li>🤔 I would love to get a guidance to be a better Developer</li>
-      <li>👯 I’m looking to collaborate on web development Projects</li>
+      <li>🤓 I’m looking to collaborate on web development Projects</li>
       <li>💬 I would love to discuss about Technologies</li>
       <li>🌱 I’m currently learning MERN full stack</li>
-      <li>⚡ Fun fact: I love my time alone.</li>
-      <li>😄 Pronouns: He/Him</li>      
+      <li>⚡ Fun fact: I love my time alone.</li>    
 </ul>
 
 
