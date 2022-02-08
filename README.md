@@ -56,7 +56,7 @@
 
 ### Github Status:
       
-[![Ezung’s github stats](https://github-readme-stats.vercel.app/api?username=omikithung&hide=prs&show_icons=true)](https://github.com/omikithung)
+[![Ezung’s github stats](https://github-readme-stats.vercel.app/api?username=omikithung&hide=prs,stars,issues&show_icons=true)](https://github.com/omikithung)
 </div>
 
 
