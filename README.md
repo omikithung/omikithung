@@ -13,10 +13,10 @@
 ### <p>About Myself:</p>
 <ul type="none" margin="none">
       <li>🔭 I’m currently working on my own self Motivated Project</li>
-      <li>🤔 I would love to get a guidance to be a better Developer</li>
+      <li>🤔 I've been into full stack developement for a year now.</li>
+      <li>🌱 I’m interested in cybersecurity, networking, IoT</li>
       <li>🤓 I’m looking to collaborate on web development Projects</li>
       <li>💬 I would love to discuss about Technologies</li>
-      <li>🌱 I’m currently learning MERN full stack</li>
       <li>⚡ Fun fact: I love my time alone.</li>    
 </ul>
 
@@ -64,7 +64,7 @@
      
 ### Programming Languages:
       
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=omikithung&layout=compact&show_icons=true&hide=scss,less)](https://github.com/omikithung/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=omikithung&layout=compact&show_icons=true&hide=css,scss,less)](https://github.com/omikithung/github-readme-stats)
 </div>
 
 
